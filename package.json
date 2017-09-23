@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather application that displays data based on input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianArredondo/node-weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianArredondo/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/ChristianArredondo/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.73.0",
+    "yargs": "^9.0.1"
+  }
+}
